@@ -1,8 +1,6 @@
 # hello-world
-Hello World Repository
 
-Line 1
+Hi Humans!
 
-Line 2
-
-Line 3
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
